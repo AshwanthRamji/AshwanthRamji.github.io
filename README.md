@@ -4,26 +4,10 @@ As an Information Systems major who is interested in data science and working wi
 
 ### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# 1. Lung Cancer Detection using 3D Convolutional Neural Networks
+1. Lung Cancer Detection using 3D Convolutional Neural Networks
 [Link](https://github.com/AshwanthRamji/Lung-Cancer-Detection-Using-3D-Convolutional-Neural-Networks) and ![Image](D:\DataScience-Project\Lung3D.png)
-## 2. Depression Sentiment Analysis using Twitter data
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+2. Depression Sentiment Analysis using Twitter data
+3. Data Model of IMDB Database
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -31,6 +15,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AshwanthRamji/AshwanthRamji.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Feel free to contact me by email - ashwanth.ramji@gmail.com 
