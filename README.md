@@ -15,7 +15,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Contact
 
 Feel free to contact me by 
--email - ashwanth.ramji@gmail.com
+email - ashwanth.ramji@gmail.com
 
 Connect with me on LinkedIn
 -[LinkedIn]( www.linkedin.com/in/ashwanth-ramji)
