@@ -9,8 +9,6 @@ As an Information Systems major who is interested in data science and working wi
 
 3. Data Model of IMDB Database
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Contact
 
 Feel free to contact me by 
