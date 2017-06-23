@@ -4,7 +4,7 @@ As an Information Systems major who is interested in data science and working wi
 
 ### Projects
 
-1. Lung Cancer Detection using 3D Convolutional Neural Networks. More details can be founf on
+1. Lung Cancer Detection using 3D Convolutional Neural Networks. More details can be found on
 [Github](https://github.com/AshwanthRamji/Lung-Cancer-Detection-Using-3D-Convolutional-Neural-Networks) and ![Image](https://www.google.com/search?q=3d+lung+model&rlz=1C1CHBF_enUS709US709&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjk1LCgydTUAhUCNz4KHVLmB_oQsAQILA&biw=1536&bih=759#imgrc=nD-mflhG2Hu7fM:)
 2. Depression Sentiment Analysis using Twitter data
 
@@ -14,4 +14,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Contact
 
-Feel free to contact me by email - ashwanth.ramji@gmail.com 
+Feel free to contact me by 
+-email - ashwanth.ramji@gmail.com
+Connect with me on LinkedIn
+-[LinkedIn]( www.linkedin.com/in/ashwanth-ramji)
+
