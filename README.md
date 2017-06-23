@@ -4,16 +4,13 @@ As an Information Systems major who is interested in data science and working wi
 
 ### Projects
 
-1. Lung Cancer Detection using 3D Convolutional Neural Networks
-[Link](https://github.com/AshwanthRamji/Lung-Cancer-Detection-Using-3D-Convolutional-Neural-Networks) and ![Image](D:\DataScience-Project\Lung3D.png)
+1. Lung Cancer Detection using 3D Convolutional Neural Networks. More details can be founf on
+[Github](https://github.com/AshwanthRamji/Lung-Cancer-Detection-Using-3D-Convolutional-Neural-Networks) and ![Image](https://www.google.com/search?q=3d+lung+model&rlz=1C1CHBF_enUS709US709&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjk1LCgydTUAhUCNz4KHVLmB_oQsAQILA&biw=1536&bih=759#imgrc=nD-mflhG2Hu7fM:)
 2. Depression Sentiment Analysis using Twitter data
+
 3. Data Model of IMDB Database
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AshwanthRamji/AshwanthRamji.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
 
