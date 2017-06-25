@@ -9,12 +9,18 @@ As an Information Systems major who is interested in data science and working wi
 3. Data Model of IMDB Database - [Github](https://github.com/AshwanthRamji/Data-Model-of-IMDB-Database)
 4. Drug Development and Analysis System
 
+### Work Experience
+
+IoT Application Developer Intern - National Advanced IPv6 Center, Universiti Sains Malaysia - [Website](http://www.nav6.usm.my/)
+
+Web Developer Intern - Argus Ventures, Chennai, India
+
 ### Contact
 
-Feel free to contact me by 
 email - ashwanth.ramji@gmail.com
 
-### Connect with me on
+### Connect with me on:
+
 -[LinkedIn]( www.linkedin.com/in/ashwanth-ramji)
 
 -[Twitter](https://twitter.com/AshwanthRamji?lang=en)
