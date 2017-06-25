@@ -5,8 +5,7 @@ As an Information Systems major who is interested in data science and working wi
 ### Projects
 
 1. Lung Cancer Detection using 3D Convolutional Neural Networks - [Github](https://github.com/AshwanthRamji/Lung-Cancer-Detection-Using-3D-Convolutional-Neural-Networks)
-2. Depression Sentiment Analysis using Twitter data
-
+2. Depression Sentiment Analysis using Twitter data - [Github](https://github.com/AshwanthRamji/Depression-Sentiment-Analysis-with-Twitter-Data)
 3. Data Model of IMDB Database
 
 ### Contact
