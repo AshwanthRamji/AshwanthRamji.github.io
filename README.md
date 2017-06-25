@@ -6,6 +6,7 @@ As an Information Systems major who is interested in data science and working wi
 
 1. Lung Cancer Detection using 3D Convolutional Neural Networks - [Github](https://github.com/AshwanthRamji/Lung-Cancer-Detection-Using-3D-Convolutional-Neural-Networks)
 2. Depression Sentiment Analysis using Twitter data - [Github](https://github.com/AshwanthRamji/Depression-Sentiment-Analysis-with-Twitter-Data)
+![GitHub Logo](/Depression-Sentiment-Analysis-with-Twitter-Data/CountrySentiment.png)
 3. Data Model of IMDB Database - [Github](https://github.com/AshwanthRamji/Data-Model-of-IMDB-Database)
 4. Drug Development and Analysis System
 
